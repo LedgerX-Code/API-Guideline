@@ -4,8 +4,8 @@ An application program interface (API) is a set of routines, protocols, and tool
 # API Guideline 
 This guideline can be implemented in various programming language. In this document, there are four example of basic implementation of  API :
 
-- [C# Programming Language](https://github.com/SysCodeMY/CryptoEstateAPI/wiki/CryptoEstate-API-Implementation-on-C%23-Language)
-- [PHP Programming Language](https://github.com/SysCodeMY/CryptoEstateAPI/wiki/CryptoEstate-API-Implementation-using-CURL-PHP-and-AJAX-to-retrieve-JSON-data-with-Datatable-JQuery-JS.)
-- [Java Programming Language](https://github.com/SysCodeMY/CryptoEstateAPI/wiki/CryptoEstate-API-Implementation-on-Java-Language)
-- [Python Programming Language](https://github.com/SysCodeMY/CryptoEstateAPI/wiki/CryptoEstate-API-Implementation-on-Python-Language)
+- [C# Programming Language](https://github.com/LedgerX-Code/API-Guideline/wiki/API-Implementation-on-C%23-Language)
+- [PHP Programming Language](https://github.com/LedgerX-Code/API-Guideline/wiki/API-Implementation-using-CURL-PHP-and-AJAX-to-retrieve-JSON-data-with-Datatable-JQuery-JS.)
+- [Java Programming Language](https://github.com/LedgerX-Code/API-Guideline/wiki/API-Implementation-on-Java-Language)
+- [Python Programming Language](https://github.com/LedgerX-Code/API-Guideline/wiki/API-Implementation-on-Python-Language)
 
